@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Victoria M. Cruz
 - 👀 I’m interested in Bioinformatics and Biostatistics
 - 🌱 I’m currently learning NGS analysis and visualization
+- 🤖 Playing around with AI and HA customization
 - 📫 How to reach me: https://www.linkedin.com/in/victoria-cruz-bioinf/
